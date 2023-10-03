@@ -14,6 +14,32 @@
 }
 
 
+.middleimg {
+  height: 369px;
+  width: auto;
+}
+
+.masthead {
+  min-height:60vh;
+  position: relative;
+  background-size: cover;
+}
+
+.masthead .container {
+  overflow: hidden;
+}
+
+.masthead h1 {
+  color: black;
+  position: relative;
+  bottom: 1.25rem;
+  max-width: 550px;
+  padding-right: 1.5rem;
+  font-family: "Square Market", sans-serif;
+}
+
+
+
 
 
 
