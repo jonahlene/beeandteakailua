@@ -38,6 +38,9 @@
   font-family: "Square Market", sans-serif;
 }
 
+.btn.sharp {
+  border-radius:0;
+}
 
 
 
